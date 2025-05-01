@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on NodeJS and Golang
+Senior Software Engineer speciliasing in Backend Development and DevOps.
 
 
 ## 🌐 Socials:
