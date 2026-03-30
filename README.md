@@ -59,5 +59,5 @@ Microservices • REST APIs • Event-driven systems • System Design
 
 ## 🤝 Let's Connect
 
-- 📧 jazeb.your@email.com  
+- 📧 jazeb.jazi007@email.com  
 - 💼 https://linkedin.com/in/jazebmunir
